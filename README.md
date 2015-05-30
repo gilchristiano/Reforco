@@ -1,6 +1,7 @@
 # Reforco
 Sistema para cadastro de professores para aulas de reforço escolar
 Para abrir arquivo reforco.eer:
+
 1. Reforco -> Download ZIP -> Descompacta arquivos
 
 2. Ferramenta EERCase (UFPE - Brasil):
